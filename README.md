@@ -226,16 +226,16 @@ The economics of DIVCOW tokens are designed to build a sustainable ecosystem and
 
 The DIVCOW project plans to distribute a total of 10 billion tokens as follows:
 
-- **DAO and Community Governance: 30%**
+- **DAO and Community Governance: 25%**
 - **Ecosystem and Development: 20%**
-- **Airdrop and Community Rewards: 15%**
+- **Airdrop and Rewards: 20%**
 - **Team and Advisors: 7%**
 - **Marketing and Partnerships: 10%**
 - **Private Sale: 8%**
 - **Public Sale: 10%**
 
 This distribution plan is designed to aim for the project's long-term growth and community-centered governance.
-![image (1)](https://github.com/user-attachments/assets/ea386422-57a1-4449-ad70-0768694f7dfd)
+![2](https://github.com/user-attachments/assets/a63ea012-d1de-462e-af52-8eb02faa38cd)
 
 ### 6.2 Token Utility
 
